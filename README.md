@@ -44,66 +44,55 @@ class GadallahMohamed extends FlutterDeveloper {
 | **AI & IoT** | OpenCV · Arduino · Bluetooth (HC-05) · Wi-Fi |
 | **Languages** | C++ · Java · Python · Assembly |
 | **Tools** | Git · GitHub · VS Code · Android Studio |
-| **Practices** | Agile · Scrum · UI/UX · Responsive Design |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🦾 Robotic Arm Control System `2026`
-> Flutter IoT system for real-time wireless control of a physical robotic arm — Mobile & Desktop.
-
+Flutter IoT system for real-time wireless control of a physical robotic arm — Mobile & Desktop.
 - Bluetooth (HC-05) and Wi-Fi dual connectivity
-- Movement recording, playback, and position save/import/export
-- Emergency stop & full joint control
-- Integrated with Arduino UNO + servo motors
+- Movement recording, playback, import/export
+- Emergency stop & full joint control · Arduino UNO + servo motors
 
-`Flutter` `Arduino` `Bluetooth` `Wi-Fi` `IoT` `Desktop`
+`Flutter` `Arduino` `Bluetooth` `Wi-Fi` `IoT`
 
 ---
 
 ### ✈️ Travel & Booking App `2025`
-> Full-featured travel app with smart search, wishlist, multiple payments, and dark mode.
+Full-featured travel app — smart search, wishlist, multiple payments, dark mode · Clean Architecture.
 
 `Flutter` `BLoC` `REST API` `Clean Architecture`
 
 ---
 
 ### 🔒 Smart Security App `2024`
-> Real-time Flutter app for IoT-based home security — live alerts & Firebase push notifications.
+Real-time alerts and remote control for IoT-based home security · Firebase push notifications.
 
-`Flutter` `Firebase` `Push Notifications` `IoT`
+`Flutter` `Firebase` `IoT` `FCM`
 
 ---
 
 ### 🏦 Banking App `2023`
-> Secure Flutter banking app with SQLite and transactional balance transfers.
+Secure Flutter banking app with SQLite and transactional balance transfers.
 
 `Flutter` `SQLite` `Dart`
-
----
-
-### ✅ Task Manager App `2024`
-> Task-tracking app with state management and modern UI/UX design.
-
-`Flutter` `Provider` `UI/UX`
 
 ---
 
 ## 💼 Experience
 
 **Flutter Teaching Assistant — TechUP Academy** `Dec 2025 – Present`
-
 - Delivered Flutter & Dart sessions alongside senior instructors
 - Debugged live code and guided students through hands-on projects
-- Simplified complex mobile concepts and reviewed assignments with feedback
+- Simplified complex concepts and reviewed assignments with structured feedback
 
 ---
 
 ## 🏅 Awards & Certifications
 
 - 🥇 **Top 3 Achiever** — GAIC Program *(EU-funded · National Council for Women)*
-- 📜 **Mobile App Development Diploma** — Information Technology Institute (ITI)
+- 📜 **Mobile App Development Diploma** — ITI
 - 📜 **SprintUp — Mobile Development by Flutter** — Sprints
 - 📜 **Flutter Program (60 hrs)** — Creativa Innovation Hub · ITIDA · TIEC · MOR
 
@@ -125,7 +114,7 @@ class GadallahMohamed extends FlutterDeveloper {
 
 <div align="center">
 
-🇸🇦 Arabic (Native) &nbsp;·&nbsp; 🇬🇧 English B2 &nbsp;·&nbsp; 🌐 Open for Remote Work
+🇸🇦 Arabic (Native) · 🇬🇧 English B2 · 🌐 Open for Remote Work
 
 `// "Building apps that matter, one widget at a time."`
 
