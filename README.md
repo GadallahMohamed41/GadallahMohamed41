@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff87,100:00c9ff&text=Gadallah%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=GADALLAH%20MOHAMED&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-# ⚡ Flutter Developer • Mobile Engineer • IoT Innovator
+# ⚡ Flutter Developer • Mobile Engineer • Firebase Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00FF87&center=true&vCenter=true&width=900&lines=Flutter+Developer;Clean+Architecture+Expert;Firebase+Specialist;IoT+%26+Robotics+Engineer;Building+Production+Ready+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF87&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Mobile+Engineer;Firebase+Specialist;IoT+Developer;Clean+Architecture+Advocate;Building+Apps+That+Matter"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GadallahMohamed41&label=Profile+Views&color=00ff87&style=for-the-badge"/>
+<a href="https://github.com/GadallahMohamed41">
+<img src="https://img.shields.io/github/followers/GadallahMohamed41?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=GadallahMohamed41&style=for-the-badge&color=00ff87"/>
 
 </div>
 
@@ -21,25 +25,20 @@ class GadallahMohamed {
 
   final String role = "Flutter Developer";
   final String location = "Egypt 🇪🇬";
-  final String university =
-      "New Assiut Technological University";
 
-  final bool openForWork = true;
-
-  List<String> expertise = [
+  List<String> technologies = [
     "Flutter",
     "Firebase",
-    "Clean Architecture",
     "BLoC",
+    "Clean Architecture",
     "REST APIs",
     "SQLite",
     "IoT",
-    "Arduino",
-    "Computer Vision"
+    "Arduino"
   ];
 
-  String mission =
-      "Building scalable mobile applications that solve real-world problems.";
+  String goal =
+      "Building scalable applications and smart systems.";
 }
 ```
 
@@ -48,12 +47,12 @@ class GadallahMohamed {
 # 🚀 Current Focus
 
 ```yaml
-📱 Cross Platform Mobile Apps
-☁️ Firebase Ecosystem
-🏗️ Clean Architecture
-⚡ High Performance Flutter Apps
-🤖 AI Integration
-🦾 IoT & Robotics Systems
+Flutter Development
+Firebase Ecosystem
+Clean Architecture
+System Design
+AI Integration
+IoT Solutions
 ```
 
 ---
@@ -62,7 +61,7 @@ class GadallahMohamed {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,cpp,java,python,sqlite,arduino"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python,sqlite,arduino,git,github,vscode,androidstudio&perline=6"/>
 
 </div>
 
@@ -72,29 +71,31 @@ class GadallahMohamed {
 
 ## 🤝 Group Chat Platform
 
-Modern real-time group communication platform.
+Production-ready communication platform built with Flutter & Firebase.
 
 ### Features
 
 - Real-time Messaging
 - Firebase Authentication
-- QR Group Invitations
-- Admin Approval System
+- QR Group Invitation System
+- Admin Approval Flow
 - Push Notifications
-- Dark Mode
 - Clean Architecture
-- BLoC State Management
+- Dark Mode
 
-**Tech Stack**
+### Stack
 
-`Flutter` `Firebase` `Firestore` `FCM`
-`BLoC` `Clean Architecture`
+`Flutter`
+`Firebase`
+`Firestore`
+`FCM`
+`BLoC`
 
 ---
 
-## 🦾 Robotic Arm Control System
+## 🤖 Robotic Arm Control System
 
-Real-time robotic arm controller using Flutter + Arduino.
+IoT-based robotic arm controller.
 
 ### Features
 
@@ -102,10 +103,9 @@ Real-time robotic arm controller using Flutter + Arduino.
 - Wi-Fi Control
 - Motion Recording
 - Emergency Stop
-- Live Monitoring
-- Desktop & Mobile Support
+- Multi Joint Control
 
-**Tech Stack**
+### Stack
 
 `Flutter`
 `Arduino`
@@ -117,57 +117,39 @@ Real-time robotic arm controller using Flutter + Arduino.
 
 ## ✈️ Travel & Booking App
 
-Modern travel experience built with Flutter.
+Modern booking application.
 
 ### Features
 
 - Smart Search
 - Wishlist
-- Multiple Payment Methods
-- Dark Mode
-- Clean Architecture
+- Payment Integration
 - Responsive UI
+- Dark Mode
 
-**Tech Stack**
+### Stack
 
 `Flutter`
 `REST APIs`
-`BLoC`
 `Clean Architecture`
 
 ---
 
-# 🏆 Achievements
-
-🥇 Top 3 Achiever — GAIC Program
-
-📜 Mobile App Development Diploma — ITI
-
-📜 Mobile Development by Flutter — Sprints
-
-📜 Flutter Program (60 Hours)
-
-🏅 Competitive Programming Enthusiast
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GadallahMohamed41&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GadallahMohamed41&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadallahMohamed41&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GadallahMohamed41&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GadallahMohamed41&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadallahMohamed41&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -183,17 +165,31 @@ Modern travel experience built with Flutter.
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GadallahMohamed41&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GadallahMohamed41&theme=algolia&no-frame=true&column=4&row=2"/>
 
 </div>
 
 ---
 
-# 🌎 Connect With Me
+# 🏅 Certifications & Achievements
+
+🥇 Top 3 Achiever — GAIC Program
+
+📜 Mobile App Development Diploma — ITI
+
+📜 Mobile Development by Flutter — Sprints
+
+📜 Flutter Program (60 Hours)
+
+🏆 Competitive Programming Enthusiast
+
+---
+
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -205,7 +201,7 @@ Modern travel experience built with Flutter.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/gadallah-mohamed">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -213,14 +209,15 @@ Modern travel experience built with Flutter.
 
 ---
 
-# ⚡ Fun Fact
+# 💡 Philosophy
 
-```dart
-while(alive){
-   eat();
-   code();
-   buildApps();
-   repeat();
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
 }
 ```
 
@@ -228,10 +225,10 @@ while(alive){
 
 <div align="center">
 
-## 🚀 Building Apps That Matter
+## ⚡ Building Products, Not Just Applications
 
 ### Flutter • Firebase • IoT • Clean Architecture
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ff87,100:00c9ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </div>
