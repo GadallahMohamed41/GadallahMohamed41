@@ -1,234 +1,123 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=GADALLAH%20MOHAMED&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-
-# ⚡ Flutter Developer • Mobile Engineer • Firebase Specialist
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF87&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Mobile+Engineer;Firebase+Specialist;IoT+Developer;Clean+Architecture+Advocate;Building+Apps+That+Matter"/>
-
-<br>
-
-<a href="https://github.com/GadallahMohamed41">
-<img src="https://img.shields.io/github/followers/GadallahMohamed41?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=GadallahMohamed41&style=for-the-badge&color=00ff87"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gadallah-mohamed)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goodashalaa912@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/GadallahMohamed41)
+![Profile Views](https://komarev.com/ghpvc/?username=GadallahMohamed41&style=flat-square&color=brightgreen)
 
 </div>
 
 ---
-
-# 👨‍💻 About Me
 
 ```dart
-class GadallahMohamed {
+class GadallahMohamed extends FlutterDeveloper {
+  final String location   = 'Beheira, Egypt 🇪🇬';
+  final String degree     = 'B.Sc. IT — New Assiut Technological University (2026)';
+  final String status     = 'Open for remote opportunities 🌐';
 
-  final String role = "Flutter Developer";
-  final String location = "Egypt 🇪🇬";
-
-  List<String> technologies = [
-    "Flutter",
-    "Firebase",
-    "BLoC",
-    "Clean Architecture",
-    "REST APIs",
-    "SQLite",
-    "IoT",
-    "Arduino"
+  List<String> get currentFocus => [
+    '📱  Cross-platform apps — Flutter & Dart',
+    '🤖  AI & Computer Vision in mobile',
+    '⚙️   IoT & Robotics control systems',
+    '🏆  Competitive Programming (ICPC)',
   ];
-
-  String goal =
-      "Building scalable applications and smart systems.";
 }
 ```
 
 ---
 
-# 🚀 Current Focus
+## 🛠 Tech Stack
 
-```yaml
-Flutter Development
-Firebase Ecosystem
-Clean Architecture
-System Design
-AI Integration
-IoT Solutions
-```
+| Category | Technologies |
+|---|---|
+| **Mobile** | Flutter · Dart · Android |
+| **Architecture** | Clean Architecture · MVVM · MVC |
+| **State Management** | BLoC · Provider |
+| **Backend & Cloud** | Firebase (Auth · Firestore · FCM) · REST API · SQLite |
+| **AI & IoT** | OpenCV · Arduino · Bluetooth (HC-05) · Wi-Fi |
+| **Languages** | C++ · Java · Python · Assembly |
+| **Tools** | Git · GitHub · VS Code · Android Studio |
+| **Practices** | Agile · Scrum · UI/UX · Responsive Design |
 
 ---
 
-# ⚙️ Tech Stack
+## 🚀 Featured Projects
+
+### 🦾 Robotic Arm Control System `2026`
+> Flutter IoT system for real-time wireless control of a physical robotic arm — Mobile & Desktop.
+
+- Bluetooth (HC-05) and Wi-Fi dual connectivity
+- Movement recording, playback, and position save/import/export
+- Emergency stop & full joint control
+- Integrated with Arduino UNO + servo motors
+
+`Flutter` `Arduino` `Bluetooth` `Wi-Fi` `IoT` `Desktop`
+
+---
+
+### ✈️ Travel & Booking App `2025`
+> Full-featured travel app with smart search, wishlist, multiple payments, and dark mode.
+
+`Flutter` `BLoC` `REST API` `Clean Architecture`
+
+---
+
+### 🔒 Smart Security App `2024`
+> Real-time Flutter app for IoT-based home security — live alerts & Firebase push notifications.
+
+`Flutter` `Firebase` `Push Notifications` `IoT`
+
+---
+
+### 🏦 Banking App `2023`
+> Secure Flutter banking app with SQLite and transactional balance transfers.
+
+`Flutter` `SQLite` `Dart`
+
+---
+
+### ✅ Task Manager App `2024`
+> Task-tracking app with state management and modern UI/UX design.
+
+`Flutter` `Provider` `UI/UX`
+
+---
+
+## 💼 Experience
+
+**Flutter Teaching Assistant — TechUP Academy** `Dec 2025 – Present`
+
+- Delivered Flutter & Dart sessions alongside senior instructors
+- Debugged live code and guided students through hands-on projects
+- Simplified complex mobile concepts and reviewed assignments with feedback
+
+---
+
+## 🏅 Awards & Certifications
+
+- 🥇 **Top 3 Achiever** — GAIC Program *(EU-funded · National Council for Women)*
+- 📜 **Mobile App Development Diploma** — Information Technology Institute (ITI)
+- 📜 **SprintUp — Mobile Development by Flutter** — Sprints
+- 📜 **Flutter Program (60 hrs)** — Creativa Innovation Hub · ITIDA · TIEC · MOR
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python,sqlite,arduino,git,github,vscode,androidstudio&perline=6"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=GadallahMohamed41&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=GadallahMohamed41&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadallahMohamed41&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
-
-## 🤝 Group Chat Platform
-
-Production-ready communication platform built with Flutter & Firebase.
-
-### Features
-
-- Real-time Messaging
-- Firebase Authentication
-- QR Group Invitation System
-- Admin Approval Flow
-- Push Notifications
-- Clean Architecture
-- Dark Mode
-
-### Stack
-
-`Flutter`
-`Firebase`
-`Firestore`
-`FCM`
-`BLoC`
-
----
-
-## 🤖 Robotic Arm Control System
-
-IoT-based robotic arm controller.
-
-### Features
-
-- Bluetooth Control
-- Wi-Fi Control
-- Motion Recording
-- Emergency Stop
-- Multi Joint Control
-
-### Stack
-
-`Flutter`
-`Arduino`
-`Bluetooth`
-`Wi-Fi`
-`IoT`
-
----
-
-## ✈️ Travel & Booking App
-
-Modern booking application.
-
-### Features
-
-- Smart Search
-- Wishlist
-- Payment Integration
-- Responsive UI
-- Dark Mode
-
-### Stack
-
-`Flutter`
-`REST APIs`
-`Clean Architecture`
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GadallahMohamed41&show_icons=true&theme=tokyonight&hide_border=true"/>
+🇸🇦 Arabic (Native) &nbsp;·&nbsp; 🇬🇧 English B2 &nbsp;·&nbsp; 🌐 Open for Remote Work
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GadallahMohamed41&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadallahMohamed41&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GadallahMohamed41&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GadallahMohamed41&theme=algolia&no-frame=true&column=4&row=2"/>
-
-</div>
-
----
-
-# 🏅 Certifications & Achievements
-
-🥇 Top 3 Achiever — GAIC Program
-
-📜 Mobile App Development Diploma — ITI
-
-📜 Mobile Development by Flutter — Sprints
-
-📜 Flutter Program (60 Hours)
-
-🏆 Competitive Programming Enthusiast
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="mailto:goodashalaa912@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GadallahMohamed41">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/gadallah-mohamed">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-# 💡 Philosophy
-
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-<div align="center">
-
-## ⚡ Building Products, Not Just Applications
-
-### Flutter • Firebase • IoT • Clean Architecture
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+`// "Building apps that matter, one widget at a time."`
 
 </div>
