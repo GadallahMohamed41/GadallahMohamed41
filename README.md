@@ -122,7 +122,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/Smart%20Security.png" width="85%"/>
+<img src="assets/screenshot/Smart%20Security.jpeg" width="85%"/>
 </div>
 
 > Real-time IoT home security system with Flutter.
