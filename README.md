@@ -20,28 +20,12 @@
 
 ```dart
 class GadallahMohamed extends FlutterDeveloper {
-
-  final String name       = "Gadallah Mohamed";
-  final String role       = "Flutter Developer & Mobile Engineer";
-  final String location   = "Beheira, Egypt 🇪🇬";
-  final String university = "New Assiut Technological University";
-  final String degree     = "B.Sc. Information Technology (2026)";
-  final String status     = "Open for Remote Opportunities 🌐";
-
-  final Map<String, List<String>> stack = {
-    "Mobile"    : ["Flutter", "Dart", "Android"],
-    "Arch"      : ["Clean Architecture", "MVVM", "BLoC", "Provider"],
-    "Backend"   : ["Firebase", "REST APIs", "SQLite", "Firestore"],
-    "IoT & AI"  : ["Arduino", "OpenCV", "Bluetooth", "Wi-Fi"],
-    "Languages" : ["C++", "Java", "Python", "Assembly"],
-  };
-
-  List<String> get currentFocus => [
-    "📱 Building scalable cross-platform apps",
-    "⚙️  Robotics & IoT control systems",
-    "🤖 Integrating AI into mobile experiences",
-    "🏆 Competitive Programming (ICPC)",
-  ];
+  final name      = "Gadallah Mohamed";
+  final role      = "Flutter Developer & Mobile Engineer";
+  final location  = "Beheira, Egypt 🇪🇬";
+  final education = "B.Sc. Information Technology, 2026";
+  final focus     = ["Mobile Apps", "IoT Systems", "AI Integration"];
+  final status    = "Open for Remote Opportunities 🌐";
 
   String get philosophy => "Build products, not just applications.";
 }
@@ -79,7 +63,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/Robo_Arm.png" width="85%"/>
+<img src="assets/screenshot/Robo_Arm.png" width="65%"/>
 </div>
 
 > Real-time IoT Flutter app to control a physical robotic arm wirelessly — Mobile & Desktop.
@@ -102,7 +86,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/travle.png" width="85%"/>
+<img src="assets/screenshot/travle.png" width="65%"/>
 </div>
 
 > Full-featured travel app with clean code and modern UX.
@@ -122,7 +106,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/Smart%20Security.jpeg" width="85%"/>
+<img src="assets/screenshot/Smart%20Security.jpeg" width="65%"/>
 </div>
 
 > Real-time IoT home security system with Flutter.
@@ -142,7 +126,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/bank_app.png" width="85%"/>
+<img src="assets/screenshot/bank_app.png" width="65%"/>
 </div>
 
 > Secure Flutter banking app with full transaction management.
@@ -162,7 +146,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/shop.png" width="85%"/>
+<img src="assets/screenshot/shop.png" width="65%"/>
 </div>
 
 > Flutter-based e-commerce application with a responsive, Arabic-friendly UI.
@@ -183,7 +167,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/TaskManeger.png" width="85%"/>
+<img src="assets/screenshot/TaskManeger.png" width="65%"/>
 </div>
 
 > Smart task-tracking app with state management.
@@ -199,7 +183,7 @@ class GadallahMohamed extends FlutterDeveloper {
 </div>
 
 <div align="center">
-<img src="assets/screenshot/book.png" width="85%"/>
+<img src="assets/screenshot/book.png" width="65%"/>
 </div>
 
 > Flutter-based event booking application with map integration and full booking flow.
