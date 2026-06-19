@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:00ff87,50:00c9ff,100:bf5af2&text=GADALLAH%20MOHAMED&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Flutter%20Developer%20%7C%20IoT%20Engineer%20%7C%20Mobile%20Specialist&descSize=18&descAlignY=62&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00ff87,50:00c9ff,100:bf5af2&text=GADALLAH%20MOHAMED&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20IoT%20Engineer%20%7C%20Mobile%20Specialist&descSize=13&descAlignY=58&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=800&color=00FF87&center=true&vCenter=true&width=1000&lines=🚀+Flutter+Developer;📱+Cross-Platform+Mobile+Engineer;⚙️+IoT+%26+Robotics+Builder;🤖+AI+Integration+Specialist;🏗️+Clean+Architecture+Advocate;🏆+ICPC+Competitive+Programmer;🔥+Building+Apps+That+Matter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=800&color=00FF87&center=true&vCenter=true&width=700&lines=🚀+Flutter+Developer;📱+Cross-Platform+Mobile+Engineer;⚙️+IoT+%26+Robotics+Builder;🤖+AI+Integration+Specialist;🏆+ICPC+Competitive+Programmer"/>
 
 <br/>
 
@@ -119,6 +119,10 @@ class GadallahMohamed extends FlutterDeveloper {
 
 ### 🔒 Smart Security App `2024`
 
+</div>
+
+<div align="center">
+<img src="assets/screenshot/Smart%20Security.png" width="85%"/>
 </div>
 
 > Real-time IoT home security system with Flutter.
