@@ -58,6 +58,54 @@ class GadallahMohamed extends FlutterDeveloper {
 
 <div align="center">
 
+### 🎓 Uni-Hub — University Social Network `2026`
+
+</div>
+
+<div align="center">
+<img src="assets/screenshot/Uni-Hub.jpg" width="65%"/>
+</div>
+
+> A LinkedIn-inspired social platform built exclusively for university students and staff.
+
+| Feature | Details |
+|---|---|
+| 👥 Network | Connect, follow & grow your academic circle |
+| 💬 Chat | Real-time messaging & notifications |
+| 📋 Groups | Study groups & admin dashboard |
+| 🤖 AI Bot | Built-in university assistant chatbot |
+| 📄 CV | Upload & manage your CV & certificates |
+
+`Flutter` `Firebase` `Clean Architecture` `BLoC` `AI Integration`
+
+---
+
+<div align="center">
+
+### ❄️ Freeze IQ — Smart Freeze Drying Control `2026`
+
+</div>
+
+<div align="center">
+<img src="assets/screenshot/Freeze.jpeg" width="65%"/>
+</div>
+
+> IoT Flutter app to control and monitor smart freeze-drying machines wirelessly.
+
+| Feature | Details |
+|---|---|
+| 📡 Connectivity | Bluetooth + Wi-Fi dual mode |
+| ⚙️ Control | Configure temperature, pressure & dry time |
+| 🔐 Auth | Account creation, Google Sign-In & password reset |
+| 📦 Batch | Batch control hub with drying history |
+| 🍍 Smart | Food library with recommended settings |
+
+`Flutter` `IoT` `Bluetooth` `Wi-Fi` `Firebase` `Arduino`
+
+---
+
+<div align="center">
+
 ### 🦾 Robotic Arm Control System `2026`
 
 </div>
