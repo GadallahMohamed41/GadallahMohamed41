@@ -62,9 +62,7 @@ class GadallahMohamed extends FlutterDeveloper {
 
 </div>
 
-<div align="center">
-<img src="assets/screenshot/Uni-Hub.jpg" width="65%"/>
-</div>
+![Uni-Hub](assets/screenshot/Uni-Hub.jpg)
 
 > A LinkedIn-inspired social platform built exclusively for university students and staff.
 
@@ -86,9 +84,7 @@ class GadallahMohamed extends FlutterDeveloper {
 
 </div>
 
-<div align="center">
-<img src="assets/screenshot/Freeze.jpeg" width="65%"/>
-</div>
+![Freeze IQ](assets/screenshot/Freeze.jpeg)
 
 > IoT Flutter app to control and monitor smart freeze-drying machines wirelessly.
 
